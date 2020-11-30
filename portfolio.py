@@ -4,7 +4,6 @@ import math
 import pandas_datareader.data as pdr
 import datetime as dt
 import plotly.express as px
-import matplotlib as plt
 
 
 class Portfolio:
